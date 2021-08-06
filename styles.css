@@ -1,0 +1,137 @@
+body{
+  font-family: "Montserrat";
+}
+#title{
+  background-color: #008dc9;
+  color: #FFF4E0;
+}
+.container-fluid{
+  padding:3% 15%;
+}
+a{
+  color: #73d2f3;
+  font-family: 'Montserrat', sans-serif;
+  margin: 25px;
+  text-align: center;
+  text-decoration:none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+h1{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 3.5rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+h2{
+  font-family: 'Montserrat-bolder', sans-serif;
+  font-size: 3rem;
+font-weight: bolder;
+  line-height: 1.5;
+}
+h3{
+  font-size: 1.5rem;
+  font-family: "Montserrat-bold", sans-serif;
+  font-weight: bolder;
+  color: #008dc9;
+}
+
+/* Navigation Bar */
+.navbar{
+padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 18px;
+}
+nav-link{
+  font-size: 1.2rem;
+  font-family: "Montserrat-light";
+
+}
+
+/* Download Buttons */
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+/* Title Image */
+
+.title-image{
+  width: 80%;
+}
+
+/* Features Section */
+
+#features{
+
+  background-color: #FFF4E0;
+text-align: center;
+padding: 200px 300px;
+}
+
+.features-img{
+  color: #39a2db;
+
+  margin-bottom: 1rem;
+}
+
+.features-p{
+  color: #dddddd;
+font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+}
+.features-img:hover{
+color: #008dc9;
+}
+
+
+/* Latest News */
+#News{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #a2dbfa;
+}
+.news{
+
+margin: 100px auto;
+text-align: left;
+width: 50%;
+font-family: 'Montserrat', sans-serif;  
+}
+.img-1{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+.img-2{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+
+
+
+
+
+
+/* Last Section */
+.bottom-container{
+  background-color:#008dc9 ;
+padding: 50px;
+text-align: center;
+}
+.lastline{
+ color: white;
+  font-size: 0.75rem;
+  padding: 20px auto;
+  margin-top: 20px;
+}
